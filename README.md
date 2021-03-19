@@ -13,3 +13,5 @@
 
 2. Run `yarn install`
 
+3. Create `Procfile`
+
